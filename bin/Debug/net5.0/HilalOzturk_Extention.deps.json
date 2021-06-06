@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HilalOzturk_Extention/1.0.0": {
+        "runtime": {
+          "HilalOzturk_Extention.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HilalOzturk_Extention/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

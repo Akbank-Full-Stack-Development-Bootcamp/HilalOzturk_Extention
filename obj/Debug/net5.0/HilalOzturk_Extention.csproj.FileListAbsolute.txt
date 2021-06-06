@@ -1,0 +1,16 @@
+/home/hilal/Desktop/HilalOzturk_Extention/bin/Debug/net5.0/HilalOzturk_Extention
+/home/hilal/Desktop/HilalOzturk_Extention/bin/Debug/net5.0/HilalOzturk_Extention.deps.json
+/home/hilal/Desktop/HilalOzturk_Extention/bin/Debug/net5.0/HilalOzturk_Extention.runtimeconfig.json
+/home/hilal/Desktop/HilalOzturk_Extention/bin/Debug/net5.0/HilalOzturk_Extention.runtimeconfig.dev.json
+/home/hilal/Desktop/HilalOzturk_Extention/bin/Debug/net5.0/HilalOzturk_Extention.dll
+/home/hilal/Desktop/HilalOzturk_Extention/bin/Debug/net5.0/ref/HilalOzturk_Extention.dll
+/home/hilal/Desktop/HilalOzturk_Extention/bin/Debug/net5.0/HilalOzturk_Extention.pdb
+/home/hilal/Desktop/HilalOzturk_Extention/obj/Debug/net5.0/HilalOzturk_Extention.csprojAssemblyReference.cache
+/home/hilal/Desktop/HilalOzturk_Extention/obj/Debug/net5.0/HilalOzturk_Extention.GeneratedMSBuildEditorConfig.editorconfig
+/home/hilal/Desktop/HilalOzturk_Extention/obj/Debug/net5.0/HilalOzturk_Extention.AssemblyInfoInputs.cache
+/home/hilal/Desktop/HilalOzturk_Extention/obj/Debug/net5.0/HilalOzturk_Extention.AssemblyInfo.cs
+/home/hilal/Desktop/HilalOzturk_Extention/obj/Debug/net5.0/HilalOzturk_Extention.csproj.CoreCompileInputs.cache
+/home/hilal/Desktop/HilalOzturk_Extention/obj/Debug/net5.0/HilalOzturk_Extention.dll
+/home/hilal/Desktop/HilalOzturk_Extention/obj/Debug/net5.0/ref/HilalOzturk_Extention.dll
+/home/hilal/Desktop/HilalOzturk_Extention/obj/Debug/net5.0/HilalOzturk_Extention.pdb
+/home/hilal/Desktop/HilalOzturk_Extention/obj/Debug/net5.0/HilalOzturk_Extention.genruntimeconfig.cache
